@@ -1,2 +1,2 @@
 # Text-Editor
-This project is a simple text editor. The author has created this project to implement the raw understanding of Java Swing. 
+This project is a Simple Text Editor. The author has created this project to implement the basic understanding of Java Swing. 
